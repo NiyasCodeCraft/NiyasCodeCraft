@@ -1,5 +1,4 @@
 
-Certainly! Here's a brief introduction you can use for your GitHub readme:
 
 👋 Hello, I'm Niyas Thottungal
 
